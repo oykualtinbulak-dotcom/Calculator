@@ -1,0 +1,15 @@
+C:\Users\Elif\OneDrive\Masaüstü\projelerim C#\CalculatorPrograme\bin\Debug\net10.0\CalculatorPrograme.exe
+C:\Users\Elif\OneDrive\Masaüstü\projelerim C#\CalculatorPrograme\bin\Debug\net10.0\CalculatorPrograme.deps.json
+C:\Users\Elif\OneDrive\Masaüstü\projelerim C#\CalculatorPrograme\bin\Debug\net10.0\CalculatorPrograme.runtimeconfig.json
+C:\Users\Elif\OneDrive\Masaüstü\projelerim C#\CalculatorPrograme\bin\Debug\net10.0\CalculatorPrograme.dll
+C:\Users\Elif\OneDrive\Masaüstü\projelerim C#\CalculatorPrograme\bin\Debug\net10.0\CalculatorPrograme.pdb
+C:\Users\Elif\OneDrive\Masaüstü\projelerim C#\CalculatorPrograme\obj\Debug\net10.0\CalculatorPrograme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elif\OneDrive\Masaüstü\projelerim C#\CalculatorPrograme\obj\Debug\net10.0\CalculatorPrograme.AssemblyInfoInputs.cache
+C:\Users\Elif\OneDrive\Masaüstü\projelerim C#\CalculatorPrograme\obj\Debug\net10.0\CalculatorPrograme.AssemblyInfo.cs
+C:\Users\Elif\OneDrive\Masaüstü\projelerim C#\CalculatorPrograme\obj\Debug\net10.0\CalculatorPrograme.csproj.CoreCompileInputs.cache
+C:\Users\Elif\OneDrive\Masaüstü\projelerim C#\CalculatorPrograme\obj\Debug\net10.0\CalculatorPrograme.dll
+C:\Users\Elif\OneDrive\Masaüstü\projelerim C#\CalculatorPrograme\obj\Debug\net10.0\refint\CalculatorPrograme.dll
+C:\Users\Elif\OneDrive\Masaüstü\projelerim C#\CalculatorPrograme\obj\Debug\net10.0\CalculatorPrograme.pdb
+C:\Users\Elif\OneDrive\Masaüstü\projelerim C#\CalculatorPrograme\obj\Debug\net10.0\CalculatorPrograme.genruntimeconfig.cache
+C:\Users\Elif\OneDrive\Masaüstü\projelerim C#\CalculatorPrograme\obj\Debug\net10.0\ref\CalculatorPrograme.dll
+C:\Users\Elif\OneDrive\Masaüstü\projelerim C#\CalculatorPrograme\obj\Debug\net10.0\Calculat.0E3B78DB.Up2Date
